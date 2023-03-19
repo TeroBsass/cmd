@@ -1,1 +1,1 @@
-# tero_cmd
+#cmd
